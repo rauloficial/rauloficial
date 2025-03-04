@@ -22,6 +22,6 @@ Desenvolvimento de automações para otimizar tarefas repetitivas.
 
 <h2>🌐 Conecte-se comigo</h2>
 
-<a href="https://www.linkedin.com/in/rauloficial/" target="_blank" style="text-decoration: none;">LinkedIn</a>
-<li><a href="mailto:raulbraga_@hotmail.com">E-mail</a></li>
+<li><a href="https://www.linkedin.com/in/rauloficial/" target="_blank" style="text-decoration: none;">LinkedIn</a></li>
+<li><a href="mailto:raulbraga_@hotmail.com">E-mail</a></li><br>
 Sempre aberto a novas oportunidades e colaborações! Vamos trocar uma ideia sobre tecnologia? 🚀
